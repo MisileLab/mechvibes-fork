@@ -1,6 +1,10 @@
 ![Mechvibes](https://i.imgur.com/78qUULA.jpg)
 
-# Mechvibes
+# Mechvibes-Fork
+
+mechvibes, but up-to-date dependencies
+
+## Original Description
 
 It's a side project that I made for myself since when I use my own mechanical keyboard at late night or in the office and my parents and my coworkers hate that a lot because the sound of the keyboard is very loud (especially in quiet places). So if you are facing this issue just like me then this product is for you!
 
