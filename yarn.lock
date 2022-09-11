@@ -971,10 +971,10 @@ electron-store@^8.0.0:
     conf "^10.2.0"
     type-fest "^2.17.0"
 
-electron@^6.1.5:
-  version "6.1.5"
-  resolved "https://registry.npmjs.org/electron/-/electron-6.1.5.tgz"
-  integrity sha512-PrdJKkAS0IaSJwu4him03VYqvAKK1qyWTE/ieb4LgcbR4F4u90b91/7xna6P1GpD/FXiHqzZQcs0SvK/o08ckQ==
+electron@6.1.12:
+  version "6.1.12"
+  resolved "https://registry.npmjs.org/electron/-/electron-6.1.12.tgz"
+  integrity sha512-RUPM8xJfTcm53V9EKMBhvpLu1+CQkmuvWDmVCypR5XbUG1OOrOLiKl0CqUZ9+tEDuOmC+DmzmJP2MZXScBU5IA==
   dependencies:
     "@types/node" "^10.12.18"
     electron-download "^4.1.0"
